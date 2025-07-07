@@ -30,12 +30,3 @@ Supports multiple **censoring styles**:
 - `click` for elegant CLI interaction
 
 ---
-
-## ⚙️ Installation
-
-Make sure you have Python 3.10.6 or higher installed.
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/raviksharma/blurfaces.git
-cd blurfaces
